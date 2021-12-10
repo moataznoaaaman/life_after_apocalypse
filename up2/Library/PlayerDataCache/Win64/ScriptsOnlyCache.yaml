@@ -24,8 +24,6 @@ ScriptsOnlyBuild:
     - TMPro.TextMeshProUGUI
     Unity.Timeline.Editor.dll:
     - TimelinePreferences
-    - UnityEditor.Timeline.ClipInspector
-    - UnityEditor.Timeline.EditorClip
     - UnityEditor.Timeline.SequenceHierarchy
     - UnityEditor.Timeline.TimelineAssetViewModel
     - UnityEditor.Timeline.TimelineWindow
@@ -53,8 +51,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
-    com.unity.cinemachine.editor.dll:
-    - CinemachineShotEditor
   sceneClasses:
     Assets/Scenes/SampleScene.unity:
     - Class: 1
@@ -1029,4 +1025,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/mo7amad mo3taz/Desktop/up2/build/kosom unity.exe
+  playerPath: C:/Users/mo7amad mo3taz/Desktop/up2/build/UP2.exe
